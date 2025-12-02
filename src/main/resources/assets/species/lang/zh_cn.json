@@ -169,8 +169,8 @@
   "block.species.alphacene_grass": "首新世草",
   "block.species.alphacene_tall_grass": "首新世高草丛",
   "block.species.alphacene_mushroom": "首新世蘑菇",
-  "block.species.alphacene_mushroom_block": "首新世蘑菇块",
-  "block.species.alphacene_mushroom_growth": "首新世蘑菇增生体",
+  "block.species.alphacene_mushroom_block": "首新世蘑菇方块",
+  "block.species.alphacene_mushroom_growth": "首新世蘑菇增生菌幕",
 
   "subtitles.entity.species.goober.death": "鼾涕兽：死亡",
   "subtitles.entity.species.goober.hurt": "鼾涕兽：受伤",
