@@ -56,7 +56,7 @@
   "subtitles.entity.species.deepfish.idle": "深岩鱼：嚎叫",
 
   "advancements.species.deepfish_in_a_bucket.title": "深岩之歌",
-  "advancements.species.deepfish_in_a_bucket.description": "用桶捕获一只深岩鱼",
+  "advancements.species.deepfish_in_a_bucket.description": "用铁桶捕获一只深岩鱼",
 
   "entity.species.stackatick": "堆栈蜱虫",
   "item.species.stackatick_spawn_egg": "堆栈蜱虫刷怪蛋",
@@ -118,7 +118,7 @@
   "advancements.species.silk_touch_break_limpet.description": "用精准采集破开矿壳贝的外壳",
 
   "advancements.species.v2.title": "第 II 波：被遗忘的生物",
-  "advancements.species.v2.description": "本次更新专注于史前生物为主题",
+  "advancements.species.v2.description": "本次更新专注于史前生物主题",
 
   "block.species.red_suspicious_sand": "可疑的红沙",
 
@@ -155,8 +155,8 @@
   "subtitles.entity.species.trooper.plant": "黍力怕：扎根",
 
   "advancements.species.burn_treeper_into_place.title": "神经损伤",
-  "advancements.species.burn_treeper_into_place.description": "通过点燃树立怕防止其移动",
-  "advancements.species.tame_trooper.title": "我为树立怕代言",
+  "advancements.species.burn_treeper_into_place.description": "通过点燃树力怕防止其移动",
+  "advancements.species.tame_trooper.title": "我为树力怕代言",
   "advancements.species.tame_trooper.description": "种植远古松果，并驯服从中长出的黍力怕",
 
   "entity.species.goober": "鼾涕兽",
@@ -194,7 +194,7 @@
   "advancements.species.tickle_goober.description": "让鼾涕兽打出鼾涕黏液并将周围世界史前化",
 
   "entity.species.cruncher": "暴食角龙",
-  "bar.species.cruncher": "%s的食欲",
+  "bar.species.cruncher": "%s的饥饿值",
   "item.species.cruncher_spawn_egg": "暴食角龙刷怪蛋",
   "block.species.cruncher_egg": "暴食角龙蛋",
   "block.species.cruncher_pellet": "暴食角龙食团",
@@ -218,7 +218,7 @@
   "subtitles.effect.species.gut_feeling.spawn": "肠胃痉挛",
   "subtitles.effect.species.gut_feeling.roar": "肠胃不适",
 
-  "jei.species.cruncher_pellet": "暴食角龙进食",
+  "jei.species.cruncher_pellet": "暴食角龙进食后生成",
   "jei.species.cruncher_pellet.mob": "包含%s的尸体",
   "jei.species.cruncher_pellet.amount": "%s至%s具尸体",
 
@@ -288,7 +288,7 @@
   "subtitles.entity.species.ghoul.aggro": "食尸鬼：尖啸",
   "subtitles.entity.species.ghoul.attack": "食尸鬼：猛扑",
   "subtitles.entity.species.ghoul.infect": "食尸鬼：感染",
-  "subtitles.entity.species.ghoul.confused": "食尸鬼：迷失方位",
+  "subtitles.entity.species.ghoul.confused": "食尸鬼：丢失进攻方位",
   "subtitles.entity.species.ghoul.searching": "食尸鬼：探听",
   "subtitles.entity.species.ghoul.angry": "食尸鬼：喘息",
   "subtitles.entity.species.ghoul.step": "食尸鬼：蹑足",
