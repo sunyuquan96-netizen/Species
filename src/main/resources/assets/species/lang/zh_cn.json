@@ -16,7 +16,7 @@
   "key.categories.species": "物种模组",
   "key.extend": "弹簧灵伸展",
   "key.retract": "弹簧灵收缩",
-  "item.species.whenEaten": "食用效果：",
+  "item.species.whenEaten": "食用后：",
 
   "entity.species.wraptor": "诡异伶盗鸟",
   "block.species.wraptor_egg": "诡异伶盗鸟蛋",
