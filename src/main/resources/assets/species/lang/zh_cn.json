@@ -1,8 +1,8 @@
 {
-  "itemGroup.species.species": "物种模组",
-  "item.species.logo": "物种模组",
+  "itemGroup.species.species": "物种纪",
+  "item.species.logo": "物种纪",
 
-  "advancements.species.root.title": "物种模组",
+  "advancements.species.root.title": "物种纪",
   "advancements.species.root.description": "",
 
   "advancements.species.v1.title": "第 I 波：首发",
@@ -13,7 +13,7 @@
   "species.developer.contribution_level.guest_artist": " (客座美术) ",
   "species.developer.contribution_level.composer": " (作曲家) ",
   "species.developer.contribution_level.contributor": " (贡献者) ",
-  "key.categories.species": "物种模组",
+  "key.categories.species": "物种纪",
   "key.extend": "弹簧灵伸展",
   "key.retract": "弹簧灵收缩",
   "item.species.whenEaten": "食用后：",
@@ -409,7 +409,7 @@
   "subtitles.item.species.spectralibur.start_charging": "缚灵圣剑：充能",
 
   "advancements.species.start_spectre_challenge.title": "盗灵剧场开幕",
-  "advancements.species.start_spectre_challenge.description": "参演挑战圣剑墓室的剧目",
+  "advancements.species.start_spectre_challenge.description": "参演名为“挑战圣剑墓室”的剧目",
 
   "advancements.species.summon_spectre.title": "以魂换魂",
   "advancements.species.summon_spectre.description": "挥舞缚灵圣剑并驾驭灵魂之力",
