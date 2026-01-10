@@ -436,8 +436,8 @@
   "item.species.monster_meal": "怪物套餐",
   "item.species.monster_meal.desc.effect": "施加随机妖法效果",
   "item.species.smoke_bomb": "烟雾弹",
-  "item.species.smoke_bomb.desc.invisibility": "隐身 (0:15)",
-  "item.species.smoke_bomb.desc.speed": "迅捷 III (0:02)",
+  "item.species.smoke_bomb.desc.invisibility": "隐身 (0：15)",
+  "item.species.smoke_bomb.desc.speed": "迅捷 III (0：02)",
   "item.species.smoke_bomb.desc.speed.effect": "+60% 速度",
 
   "item.species.wicked_dope": "妖法秘药",
@@ -608,7 +608,7 @@
   "block.species.birtday_cake": "哔特鸟诞糕",
   "container.species.birtday_cake": "设置哔特鸟祝词：",
   "item.species.birtday_cake_slice": "哔特鸟诞糕切片",
-  "item.species.birtday_cake_slice.desc.birtd": "哔特扰乱 (0:10)",
+  "item.species.birtday_cake_slice.desc.birtd": "哔特扰乱 (0：10)",
   "item.species.birtday_cake_slice.desc.effect": "无法移动",
   "subtitles.block.species.birtday_cake.blow": "哔特鸟诞糕：天线被吹灭",
   "messages.species.birtday": "小小哔特鸟告诉我 %s 今天已经 %s 岁了！"
